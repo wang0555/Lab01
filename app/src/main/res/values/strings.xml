@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">Lab01</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_items">ListItemsActivity</string>
     <string name="hello_message">Hello World!</string>
     <string name="Button">I\'m button!</string>
-    <string name="title_activity_login">LoginActivity</string>
+    <string name="textview">TextView</string>
+    <string name="login">Login</string>
+    <string name="login_name">login name</string>
+    <string name="password">password</string>
+    <string name="Switch">Enable Something</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="radiobutton">RadioButton</string>
 </resources>
